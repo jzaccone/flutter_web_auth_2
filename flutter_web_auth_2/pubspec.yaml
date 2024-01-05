@@ -1,4 +1,4 @@
-name: flutter_web_auth_2
+name: jz_flutter_web_auth_2
 description: Flutter plugin for authenticating a user with a web service.
 version: 3.1.1
 homepage: https://github.com/ThexXTURBOXx/flutter_web_auth_2
@@ -7,11 +7,11 @@ issue_tracker: https://github.com/ThexXTURBOXx/flutter_web_auth_2/issues
 funding:
   - https://github.com/sponsors/ThexXTURBOXx
 screenshots:
-  - description: 'flutter_web_auth_2 in action on Android'
+  - description: "flutter_web_auth_2 in action on Android"
     path: screen-android.gif
-  - description: 'flutter_web_auth_2 in action on iOS'
+  - description: "flutter_web_auth_2 in action on iOS"
     path: screen-ios.gif
-  - description: 'flutter_web_auth_2 in action on MacOS'
+  - description: "flutter_web_auth_2 in action on MacOS"
     path: screen-macos.gif
 topics:
   - authentication
