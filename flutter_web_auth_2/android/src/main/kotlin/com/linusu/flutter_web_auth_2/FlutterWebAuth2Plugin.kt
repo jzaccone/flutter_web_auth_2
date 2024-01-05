@@ -58,6 +58,7 @@ class FlutterWebAuth2Plugin(private var context: Context? = null, private var ch
               intent.intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY)
           }
           intent.intent.putExtra("android.support.customtabs.extra.KEEP_ALIVE", keepAliveIntent)
+          intent.intent.putExtra("android.support.customtabs.extra.user_opt_out", true);
 
           intent.launchUrl(context!!, url)
         }
