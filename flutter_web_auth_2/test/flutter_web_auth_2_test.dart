@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_web_auth_2/flutter_web_auth_2.dart';
+import 'package:flutter_web_auth_2/jz_flutter_web_auth_2.dart';
 
 void main() {
   const channel = MethodChannel('flutter_web_auth_2');
